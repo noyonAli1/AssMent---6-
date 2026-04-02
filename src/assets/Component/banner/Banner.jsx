@@ -23,10 +23,10 @@ const Banner = () => {
             </p>
 
             <div className="flex gap-2 justify-center lg:justify-start">
-              <button className="btn btn-primary rounded-full">
+              <button className="btn btn-primary rounded-full hover:bg-blue-700">
                 Get Started
               </button>
-              <button className="btn btn-outline rounded-full flex items-center gap-1 hover:bg-blue-600 hover:border-0 hover:text-white">
+              <button className="btn btn-outline rounded-full flex items-center gap-1 hover:bg-blue-900 hover:border-0 hover:text-white">
                 <CiPlay1 /> Watch Demo
               </button>
             </div>
