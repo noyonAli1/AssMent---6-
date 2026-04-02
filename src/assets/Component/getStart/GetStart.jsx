@@ -12,13 +12,13 @@ const GetStart = () => {
                 </p>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-stretch container mx-auto">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-15 items-stretch container mx-auto">
 
                 {/* Card 1 */}
                 <div class="card h-full bg-base-100 shadow-sm border border-gray-100 p-8 relative flex flex-col items-center text-center">
 
                     <div class="absolute top-4 right-4">
-                        <span class="badge badge-primary bg-indigo-600 border-none font-bold p-3">01</span>
+                        <span class="badge badge-primary bg-indigo-600  border-none font-bold ">01</span>
                     </div>
 
                     <div class="w-20 h-20 bg-indigo-50 rounded-full flex items-center justify-center mb-6">

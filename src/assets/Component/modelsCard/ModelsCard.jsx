@@ -19,7 +19,7 @@ const ModelsCard = ({ model, cart, setCart }) => {
   }
 
   return (
-    <div className="bg-white rounded-2xl shadow-md p-6 w-[320px] relative m-2">
+    <div className="bg-white rounded-2xl shadow-lg shadow-gray-500 p-6 w-[320px] relative m-2">
 
       {/* Dynamic Badge */}
       <span className={`absolute top-4 right-4 text-xs px-3 py-1 rounded-full font-medium
