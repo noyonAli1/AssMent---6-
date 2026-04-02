@@ -92,9 +92,9 @@ const NavBer = ({cart}) => {
                                 </div>
                             </button>
 
-                            <a className="link link-hover font-medium hidden sm:block">Login</a>
+                            <a className="link link-hover font-medium hidden sm:block ">Login</a>
                         </div>
-                        <a className="btn btn-sm lg:btn-md btn-primary text-white border-none rounded-full px-4 lg:px-6">
+                        <a className="btn btn-sm lg:btn-md btn-primary text-white border-none rounded-full px-4 lg:px-6 hover:bg-cyan-600">
                             Get Started
                         </a>
                     </div>
